@@ -8,6 +8,7 @@ Sometimes you ***have*** to waste time, why not make it look like your busy but 
 ## INSTALL:
 - Do a basic python install for your OS
 - Install Pygame - (pip install pygame)
+- python3 main.py
 
 ### CONTROLS:
 Use the arrows. (You'll get it)
